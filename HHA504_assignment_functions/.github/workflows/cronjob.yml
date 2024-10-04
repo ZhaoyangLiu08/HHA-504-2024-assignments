@@ -1,0 +1,12 @@
+name: Scheduled Task
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # This runs daily at midnight UTC
+
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Log scheduled task
+        run: echo "Scheduled task executed"
