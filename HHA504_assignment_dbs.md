@@ -5,6 +5,7 @@
 ###gcp
 ![image](https://github.com/user-attachments/assets/c59059fa-17ba-4747-97ee-006149f48748)
 ![image](https://github.com/user-attachments/assets/c74734f6-4166-4a2c-ac55-e717ce27619a)
+![image](https://github.com/user-attachments/assets/7dd6e1bc-94ac-4593-8be8-5134793c8f06)
 
 ###bigquery
 ![image](https://github.com/user-attachments/assets/1d09180c-ec00-409c-92c3-953b545f568c)
