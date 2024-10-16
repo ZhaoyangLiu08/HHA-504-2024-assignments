@@ -9,3 +9,8 @@
 
 ###bigquery
 ![image](https://github.com/user-attachments/assets/1d09180c-ec00-409c-92c3-953b545f568c)
+
+###reflections
+User Interface: Both are user-friendly, but GCP offers more granular monitoring.
+Cost Monitoring: GCP provides more detailed cost breakdowns, especially for BigQuery, which charges based on data processed.
+Security: Both offer strong security, though GCP integrates IAM roles more smoothly for managing access.
